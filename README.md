@@ -1,2 +1,0 @@
-# wifite
-wifite.py
